@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#9b507d</color>
+    <color name="colorAccent">#9b507d</color>
+    <color name="colorPrimary">#4d394b</color>
+    <color name="light_gray">#fff</color>
+    <color name="dark_gray">#17afcb</color>
+    <color name="dark_gray_pressed">#373e44</color>
+    <color name="darker_gray">#9b507d</color>
+    <color name="greenStart">#9b507d</color>
+    <color name="greenMid">#4d394b</color>
+    <color name="greenEnd">#9b507d</color>
+    <color name="hotelscolor">#1ead9e</color>
+    <color name="tourscolor">#4d88e5</color>
+    <color name="carcolors">#9b507d</color>
+    <color name="shipscolor">#e6853d</color>
+    <color name="flightscolor">#b84063</color>
+    <color name="ripple">#F06292</color>
+    <color name="accent">#E91E63</color>
+    <color name="accent_pressed">#C2185B</color>
+    <color name="custom_header_text">#9b507d</color>
+    <color name="custom_selected">#A8D324</color>
+    <color name="custom_background">#F0F8DB</color>
+    <color name="custom_background_today">#FF9105</color>
+    <color name="custom_background_disabled">#F0F8DB</color>
+    <color name="custom_text_selected">#FFFFFFFF</color>
+    <color name="custom_text_inactive">#7f778088</color>
+    <color name="transparent">#00000000</color>
+
+</resources>

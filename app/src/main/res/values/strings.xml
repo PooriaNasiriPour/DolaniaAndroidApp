@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Dolania</string>
+    <string-array name="kind1">
+
+        <item>صندوق پیام ها</item>
+        <item>اضافه کردن کاربر</item>
+        <item>کاربران چک نشده</item>
+        <item>جستوجوی کاربر</item>
+        <item>ارسال نرم افزار برای دیگران</item>
+        <item>درباره ما</item>
+        <item>خروج از حساب کاربری</item>
+    </string-array>
+    <string name="google_api_key">AIzaSyDCF2JZt7LlFLzgHxnmidmOs9GWxvBn3Ig</string>
+
+
+    <string name="action_clear"> پاک کردن نقشه</string>
+    <string name="action_polygon">Polygon</string>
+    <string name="action_traffic">Toggle Traffic</string>
+    <string name="action_cycle_map_type">Cycle Map نقشه</string>
+
+    <string name="dialog_play_services_unavailable">Google Play Services are unavailable.</string>
+    <string name="dialog_download_play_services">Download Play Services</string>
+    <string name="dialog_close_program">Close Program</string>
+    <string name="Done">Done</string>
+    <string name="Customized">Customized</string>
+    <string name="Decorator">Decorator</string>
+    <string name="Hebrew">Hebrew</string>
+    <string name="Arabic">Arabic</string>
+    <string name="CustomView">Custom View</string>
+    <string name="Dialog">Dialog</string>
+    <string name="DisplayOnly">DisplayOnly</string>
+    <string name="Range">Range</string>
+    <string name="Multi">Multi</string>
+    <string name="Single">Single</string>
+    <string name="title_activity_main">DateTimePicker Example</string>
+    <string name="selected_time">The time you picked will be shown here.</string>
+    <string name="selected_date">The date you picked will be shown here.</string>
+    <string name="pick_time">Pick Time</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="mode_24_hours">Use 24 hour mode</string>
+    <string name="mode_dark_time">Use dark theme</string>
+    <string name="mode_dark_date">Use dark theme</string>
+    <string name="action_settings">Settings</string>
+</resources>
